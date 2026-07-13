@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumedh708/LeetSoln/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sumedh708/LeetSoln/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sumedh708/LeetSoln/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
