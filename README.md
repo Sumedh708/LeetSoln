@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumedh708/LeetSoln/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumedh708/LeetSoln/tree/master/0345-reverse-vowels-of-a-string) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Sumedh708/LeetSoln/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sumedh708/LeetSoln/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## String
 |  |
@@ -27,4 +28,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumedh708/LeetSoln/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Sumedh708/LeetSoln/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
